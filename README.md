@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JinYong's%20GitHub&fontSize=60)
 
 <div align="center">
-👋 I'm Learning And Growing Everyday!<br>   
+👋<br>   
 My Blog And Email Address Are Here!<br>
    
 <a href="https://aitidev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-red?style=for-the-badge&logo=tistory&logoColor=f5f5f5"/></a> <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/ekwls20@gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
