@@ -24,3 +24,17 @@ jobs:
         env:
           RSS_URL: ${{ secrets.RSS_URL }}
         run: go run main.go
+        
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add .
+          # 변경 사항이 있을 때만 커밋을 진행합니다. (없을 경우 에러 방지)
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: Update RSS data [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi  
