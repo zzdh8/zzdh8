@@ -16,7 +16,7 @@
 ## 📕 Latest Blog Posts
 
 <ul>
-<li><a href='https://aitidev.tistory.com/entry/%EB%8A%A6%EC%9D%80-2025%EB%85%84-%ED%9A%8C%EA%B3%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%8B%A0%EC%9E%85-DevOps-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4' target='_blank'>늦은 2025년 회고 그리고, 신입 DevOps 엔지니어</a></li>
+<li><a href='https://aitidev.tistory.com/entry/%EB%8A%A6%EC%9D%80-2025%EB%85%84-%ED%9A%8C%EA%B3%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%8B%A0%EC%9E%85-DevOps-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4' target='_blank'>늦은 2025년 회고</a></li>
 <li><a href='https://aitidev.tistory.com/entry/Kubernetes-%EB%B0%B1%EC%97%85%ED%95%98%EC%9E%90' target='_blank'>Kubernetes, 백업하자</a></li>
 <li><a href='https://aitidev.tistory.com/entry/LDAP' target='_blank'>LDAP?</a></li>
 <li><a href='https://aitidev.tistory.com/entry/N1-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%B4%EA%B2%B0' target='_blank'>N+1, 그리고 해결</a></li>
