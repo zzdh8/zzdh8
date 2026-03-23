@@ -16,6 +16,7 @@
 ## 📕 Latest Blog Posts
 
 <ul>
+<li><a href='https://aitidev.tistory.com/entry/%EB%A7%9D%EC%97%B0%EA%B3%84-%EB%A7%9D%EB%B6%84%EB%A6%AC' target='_blank'>망연계, 망분리</a></li>
 <li><a href='https://aitidev.tistory.com/entry/%EB%8A%A6%EC%9D%80-2025%EB%85%84-%ED%9A%8C%EA%B3%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%8B%A0%EC%9E%85-DevOps-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4' target='_blank'>늦은 2025년 회고</a></li>
 <li><a href='https://aitidev.tistory.com/entry/Kubernetes-%EB%B0%B1%EC%97%85%ED%95%98%EC%9E%90' target='_blank'>Kubernetes, 백업하자</a></li>
 <li><a href='https://aitidev.tistory.com/entry/LDAP' target='_blank'>LDAP?</a></li>
@@ -25,5 +26,4 @@
 <li><a href='https://aitidev.tistory.com/entry/cc1exe-sorry-unimplemented-64-bit-mode-not-compiled-in' target='_blank'>cc1.exe: sorry, unimplemented: 64-bit mode not compiled in</a></li>
 <li><a href='https://aitidev.tistory.com/entry/DB-%EB%B0%B1%EC%97%85%EC%9D%98-%EA%B0%9C%EB%85%90' target='_blank'>DB 백업의 개념</a></li>
 <li><a href='https://aitidev.tistory.com/entry/SQS-Kafka' target='_blank'>SQS, Kafka?</a></li>
-<li><a href='https://aitidev.tistory.com/entry/HyperText-Transfer-Protocol' target='_blank'>HyperText Transfer Protocol</a></li>
 </ul>
